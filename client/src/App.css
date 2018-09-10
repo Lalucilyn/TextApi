@@ -1,0 +1,52 @@
+.main-box {
+  border:3px solid black;
+  margin-top:1em;
+  padding-bottom:1em;
+}
+
+.title {
+  padding:0 !important;
+}
+
+h1 {
+  background:#311b92;
+  color:white;
+  margin:0 0 0.5em 0;
+  padding-top:0.5em;
+  padding-bottom:0.5em;
+}
+
+button {
+  text-transform:uppercase;
+  font-size:1.5em !important;
+  background:#ffbd45;
+}
+
+label {
+  font-size:1.2em;
+}
+
+input {
+  width:85%;
+  height:35px;
+  margin:14px;
+  border:3px solid black;
+  border-radius:5px;
+}
+
+button:hover{
+  color:#ffbd45!important;
+  background:black;
+  transition:0.5s;
+}
+
+.response {
+  height:5em;
+  background:#e7b9ff;
+  margin-top:14px;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size:1.5em;
+}
+
